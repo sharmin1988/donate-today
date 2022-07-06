@@ -5,6 +5,7 @@ body{
 section{
     height: 500px;
     margin-bottom: 200px;
+    
 }
 h1{
     font-size: 70px;
@@ -114,4 +115,21 @@ h3{
     margin: 2%;
     padding: 2%;
     background: rgb(233, 237, 238);
+}
+
+footer{
+    background-color: black;
+    width: 100%;
+    text-align: center;
+    color: white;
+    margin-top: 50px;
+    margin-bottom: 0%;
+    padding-top: 1%;
+    font-size: 15px;
+}
+.footer-span{
+    color: rgba(255, 20, 145, 0.733);
+    font-size: 25px;
+    font-family: cursive;
+    
 }
