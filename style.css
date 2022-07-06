@@ -2,6 +2,10 @@ body{
     font-family: 'Roboto', sans-serif;
     margin: 0;  
 }
+section{
+    height: 500px;
+    margin-bottom: 200px;
+}
 h1{
     font-size: 70px;
 }
@@ -26,6 +30,56 @@ p{
     text-decoration: none;
     padding: 10px 15px;
     border-radius: 5px;
-    font-size: 20px;
-    
+    font-size: 20px;   
 }
+
+
+h2{
+    font-size: 50px;
+    font-weight: 700;
+}
+.Donate-Today{
+    text-align: center;
+    line-height: .5cm
+}
+.taka{
+    display: flex;
+    justify-content: space-between;
+    width: 60%;
+    margin-left: 20%;
+}
+h3{
+    width: 150px;
+    height: 80px;
+    background: lightyellow;
+    padding-top: 5%;
+    padding-left: 3%;
+    margin-right: 2%;
+    border-radius: 20px;
+    font-size: 30px;
+    color: gray;
+    font-weight: 900;
+}
+.input-tk{
+    border: 2px solid tomato;
+    color: tomato;
+}
+.Donate-Today-mid{
+    text-align: center;
+    margin-top: 30px;
+}
+.input-button{
+    width: 50%;
+    font-size: 20px;
+    margin-bottom: 2%;
+    border-top: 2px;
+    border-left: 2px;
+    border-right: 2px;
+    border-color: darkgray;
+    background: lightyellow;
+    padding-bottom: 5px;
+    color: rgb(153, 152, 152);
+    font-weight: 600;
+}
+
+
