@@ -89,8 +89,9 @@ h3{
 }
 
 .donate-plan-sec{
-    margin: 0px;
+   margin-bottom: 10%;
     padding: 10px;
+
 }
 .donate-plan{
     display: flex;
