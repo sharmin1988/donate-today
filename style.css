@@ -1,0 +1,31 @@
+body{
+    font-family: 'Roboto', sans-serif;
+    margin: 0;  
+}
+h1{
+    font-size: 70px;
+}
+p{
+    padding-bottom: 2%;
+}
+.header-background{
+    height: 600px;
+    background-image: url(images/donation13.jpg);
+    background-repeat: no-repeat;
+    background-size: 100%;  
+}
+.header-sec-div{ 
+    backdrop-filter: blur(3px);
+    text-align: center;
+    color: white;
+    padding-top: 5%;
+}
+.anchor-tab{
+    background: rgb(241, 137, 51);
+    color: white;
+    text-decoration: none;
+    padding: 10px 15px;
+    border-radius: 5px;
+    font-size: 20px;
+    
+}
