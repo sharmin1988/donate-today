@@ -4,8 +4,7 @@ body{
 }
 section{
     height: 500px;
-    margin-bottom: 200px;
-    
+    margin-bottom: 200px;  
 }
 h1{
     font-size: 70px;
@@ -34,12 +33,12 @@ p{
     font-size: 20px;   
 }
 
+
+
 .donate-today-sec{
     padding: 0;
     margin: 5%;
-   
 }
-
 h2{
     font-size: 50px;
     font-weight: 700;
@@ -88,10 +87,10 @@ h3{
     font-weight: 600;
 }
 
+
 .donate-plan-sec{
    margin-bottom: 10%;
     padding: 10px;
-
 }
 .donate-plan{
     display: flex;
@@ -102,8 +101,7 @@ h3{
     margin: 2%;
     padding: 2%;
     background: rgb(245, 245, 214);
-    border-radius: 5px;
-    
+    border-radius: 5px;   
 }
 .donate-plan-2{
     width: 20%;
@@ -120,21 +118,7 @@ h3{
     border-radius: 5px;
 }
 
-footer{
-    background-color: black;
-    width: 100%;
-    text-align: center;
-    color: white;
-    margin-bottom: 0%;
-    padding-top: 1%;
-    font-size: 15px;
-}
-.footer-span{
-    color: rgba(255, 20, 145, 0.733);
-    font-size: 25px;
-    font-family: cursive;
-    
-}
+ 
 
 .update-sec{
     padding-top: 8%;
@@ -150,8 +134,7 @@ footer{
     text-align: center;
     margin-left: 30%;
     padding-top: 5%;
-    border-radius: 5px;
-    
+    border-radius: 5px;   
 }
 .update-sec-input-1{
     width: 50%;
@@ -161,18 +144,17 @@ footer{
     border-radius: 5px;
     font-weight: 700;
     color: rgb(109, 107, 107);
-
 }
 .update-sec-input-2{
     height: 40px;
     width: 25%;
     padding-left: 10px;
+    margin-left: -1%;
     background-color: rgb(236, 109, 59);
     border: 0;
     border-radius: 5px;
     font-weight: 700;
     color: white;
-
 }
 
 
@@ -181,17 +163,30 @@ footer{
     background-image: url(images/donation0.jpg);
     background-repeat: no-repeat;
     background-size: 100%; 
-    background-color: rgba(0, 0, 0, 0.401);
+    background-color: rgba(0, 0, 0, 0.6);
     background-blend-mode: overlay;
     backdrop-filter: blur(5px);
     margin-bottom: 0; 
     padding-bottom: 0;  
 }
-
 .they-need-us-div{
     text-align: center;
     color: white;
     padding-top: 5%;
-    
+}
 
+
+footer{
+    background-color: black;
+    width: 100%;
+    text-align: center;
+    color: white;
+    margin-bottom: 0%;
+    padding-top: 1%;
+    font-size: 15px;
+}
+.footer-span{ 
+        color: rgba(255, 20, 145, 0.733);
+        font-size: 25px;
+        font-family: cursive;      
 }
